@@ -7,7 +7,7 @@ A simple Python-based toolkit for designing PCR primers from DNA sequences.
 - Calculate **GC content** and **melting temperature (Tm)**
 - Generate **forward and reverse primers** of user-defined length
 - Return **reverse complement** of DNA
-- Export primer data to CSV (optional)
+- Export primer data to CSV 
 
 ## 🧬 Example Usage
 
